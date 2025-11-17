@@ -11,7 +11,7 @@ For official course documentation and reference materials, please refer to the m
 ## ✒️ Authors 
 
 - **[Shalev Cohen]** — [GitHub](https://github.com/Shalevc3) 
-- **[Noam Hadad]** — [GitHub](#) 
+- **[Noam Hadad]** — [GitHub](https://github.com/NoamHadad) 
 
 ---
 

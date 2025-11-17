@@ -1,0 +1,57 @@
+AI-Enhanced Cybersecurity – Student Repository
+
+This repository is part of the AI-Enhanced Cybersecurity course taught by
+Dr. Andrei Kojukhov and Viacheslav Nefedov at the Holon Institute of Technology (HIT), Israel.
+Here you will find our laboratory work and the materials related to our final project.
+
+For official course content, documentation, and the master guidelines, please refer to the main course repository on GitHub.
+
+✒️ Authors / Contributors
+
+[Name 1] — GitHub | LinkedIn
+
+[Name 2] — GitHub | LinkedIn
+
+[Name 3] — GitHub | LinkedIn
+
+[Name 4] — GitHub | LinkedIn
+
+(ניתן להוסיף/להסיר שמות לפי הצורך)
+
+⚙️ Final Project
+
+This section will contain details about our final AI-enhanced cybersecurity project.
+Additional information, diagrams, datasets, and implementation notes will be added later in the semester.
+
+🔬 Laboratory Work
+
+Throughout the course, we completed a series of hands-on labs designed to show how AI, data pipelines, and modern security workflows are used in real environments.
+The exercises involve working with:
+
+Real CTI reports
+
+Security event logs
+
+Network flow data
+
+NLP-based threat examples
+
+AI/ML-driven detection techniques
+
+These labs gradually develop practical skills relevant for SOC operations, CTI analysis, and AI-powered cybersecurity systems.
+
+Labs Overview
+Lab	Assignment	Solution	Topic	Description
+1	Lab 1 Assignment	Lab1	CTI Mapping to MITRE ATT&CK	Selecting a real Cyber Threat Intelligence report, analyzing attacker behavior, and aligning it with MITRE ATT&CK tactics and techniques.
+2	Lab 2 Assignment	Lab2	(To be added)	(To be added)
+📂 Repository Structure
+REPOSITORY/
+│
+├── Labs/                                      # All laboratory assignments
+│   │
+│   ├── Lab1/                                  # Materials for Lab 1
+│   │   └── lab1.md                            # Solution / write-up for Lab 1
+│   │
+│   └── Lab2/                                  # Materials for Lab 2 (upcoming)
+│
+└── Project/                                   # Folder for the final course project

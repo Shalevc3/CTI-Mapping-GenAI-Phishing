@@ -11,7 +11,7 @@ For official course documentation and reference materials, please refer to the m
 ## ✒️ Authors / Contributors
 
 - **[Shalev Cohen]** — [GitHub](https://github.com/Shalevc3) 
-- **[Name 2]** — [GitHub](#) 
+- **[Noam Hadad]** — [GitHub](#) 
 
 ---
 
@@ -25,7 +25,7 @@ This section will include the project overview, design choices, datasets, and im
 ## 🔬 Laboratory Work
 
 During the semester, we worked on several hands-on labs demonstrating how AI-driven techniques, modern data pipelines, and cybersecurity methodologies are used in real-world environments.
-
+<!--
 The labs include practical work with:
 
 - Real CTI (Cyber Threat Intelligence) reports  
@@ -34,6 +34,7 @@ The labs include practical work with:
 - Data processing workflows and accelerated pipelines  
 
 These exercises build knowledge and skills applicable to SOC, CTI, and AI-enhanced cybersecurity roles.
+-->
 
 ---
 

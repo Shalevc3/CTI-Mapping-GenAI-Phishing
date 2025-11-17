@@ -38,5 +38,5 @@ The attack pattern typically involves:
 
 ---
 
-## Sבי
+## 🎣 Attack Path Diagram
 <img width="1024" height="443" alt="task_01ka9db74tfq5rs7f8gtwn91nf_1763400167_img_1" src="https://github.com/user-attachments/assets/82afc6b5-a174-49a0-8ac9-c9bad0960e57" />
